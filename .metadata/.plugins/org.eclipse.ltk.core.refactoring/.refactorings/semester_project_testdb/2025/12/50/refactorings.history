@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;com&apos; to &apos;25f-prj-scd-hackops/src/test/resources&apos;&#x0A;- Original project: &apos;semester_project_testdb&apos;&#x0A;- Destination element: &apos;25f-prj-scd-hackops/src/test/resources&apos;&#x0A;- Original element: &apos;com&apos;" description="Copy folder" destination="=25f-prj-scd-hackops/src\/test\/resources" element1="src/test/resources/com" files="0" flags="589830" folders="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1765137229955" units="0" version="1.0"/>
+</session>

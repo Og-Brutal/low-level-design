@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Copy 0 source folders to &apos;25f-prj-scd-hackops&apos;&#x0A;- Destination element: &apos;25f-prj-scd-hackops&apos;" description="Copy source folders" destination="=25f-prj-scd-hackops" flags="6" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyRoots" roots="0" stamp="1765137096092" version="1.0"/>&#x0A;<refactoring comment="Copy 0 source folders to &apos;25f-prj-scd-hackops&apos;&#x0A;- Destination element: &apos;25f-prj-scd-hackops&apos;" description="Copy source folders" destination="=25f-prj-scd-hackops" flags="6" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyRoots" roots="0" stamp="1765137136811" version="1.0"/>
+</session>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.lang.Character"/>
+    <fullyQualifiedTypeName name="com.lms.factory.AbstractDAOFactory"/>
+    <fullyQualifiedTypeName name="com.lms.pl.UserInterfacePL"/>
+    <fullyQualifiedTypeName name="java.util.Timer"/>
+    <fullyQualifiedTypeName name="com.mysql.cj.x.protobuf.MysqlxNotice.Frame"/>
+    <fullyQualifiedTypeName name="java.util.Collections"/>
+    <fullyQualifiedTypeName name="com.mysql.cj.xdevapi.Statement"/>
+    <fullyQualifiedTypeName name="com.apm.bll.TextProcessingUtil"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="com.mysql.cj.xdevapi.Result"/>
+    <fullyQualifiedTypeName name="javax.naming.spi.DirStateFactory.Result"/>
+    <fullyQualifiedTypeName name="com.apm.bll.utils.SimilarityAlgorithm"/>
+    <fullyQualifiedTypeName name="java.awt.List"/>
+</qualifiedTypeNameHistroy>

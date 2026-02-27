@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+    <typeInfo handle="=OWN_FACADE/src&lt;com.lms.bll{IBusinessFacade.java[IBusinessFacade" modifiers="513" timestamp="1760554750403"/>
+    <typeInfo handle="=OWN_FACADE/src&lt;com.lms.pl{IUserInterface.java[IUserInterface" modifiers="513" timestamp="1759592639087"/>
+    <typeInfo handle="=replacing condition by polymorphism/src&lt;com.rcp{State.java[State" modifiers="513" timestamp="1761560555485"/>
+    <typeInfo handle="=OwnAbstractFactory/src&lt;com.lms.dao{IMemberDAO.java[IMemberDAO" modifiers="513" timestamp="1760788998804"/>
+    <typeInfo handle="=OwnAbstractFactory/src&lt;com.lms.factory{AbstractDAOFactory.java[AbstractDAOFactory" modifiers="1025" timestamp="1760785588777"/>
+    <typeInfo handle="=OwnAbstractFactory/src&lt;com.lms.dao{IBookDAO.java[IBookDAO" modifiers="513" timestamp="1760780716638"/>
+    <typeInfo handle="=OwnAbstractFactory/src&lt;com.lms.bll{IBookBO.java[IBookBO" modifiers="513" timestamp="1760787629984"/>
+    <typeInfo handle="=OwnAbstractFactory/src&lt;com.lms.bll{IMemberBO.java[IMemberBO" modifiers="513" timestamp="1760787632849"/>
+    <typeInfo handle="=Arabic_Prose_Management/src&lt;com.apm.bll{IChapterBO.java[IChapterBO" modifiers="513" timestamp="1761172089553"/>
+    <typeInfo handle="=newone/src&lt;com.apm.dal{ITextExtracter.java[ITextExtracter" modifiers="513" timestamp="1761248175357"/>
+    <typeInfo handle="=ahmad/src&lt;com.ahmad.dal{IAuthorDAO.java[IAuthorDAO" modifiers="513" timestamp="1761558403952"/>
+    <typeInfo handle="=ahmad/src&lt;com.ahmad.dal{IDataAccessLayerFacade.java[IDataAccessLayerFacade" modifiers="513" timestamp="1761558734016"/>
+    <typeInfo handle="=newone/\/snap\/eclipse\/127\/usr\/lib\/eclipse\/plugins\/org.eclipse.justj.openjdk.hotspot.jre.full.linux.x86_64_21.0.8.v20250724-1412\/jre\/lib\/jrt-fs.jar`java.base=/javadoc_location=/https:\/\/docs.oracle.com\/en\/java\/javase\/21\/docs\/api\/=/=/module=/true=/&lt;java.util.function(IntToDoubleFunction.class[IntToDoubleFunction" modifiers="1537" timestamp="1757444984000"/>
+    <typeInfo handle="=newone/src&lt;com.apm.dal{IRootDAO.java[IRootDAO" modifiers="513" timestamp="1763284234415"/>
+    <typeInfo handle="=newone/src&lt;com.apm.bll{ILemmaBO.java[ILemmaBO" modifiers="513" timestamp="1763288878673"/>
+    <typeInfo handle="=newone/src&lt;com.apm.bll{IRootBO.java[IRootBO" modifiers="513" timestamp="1763289236596"/>
+    <typeInfo handle="=newone/\/home\/wahab\/Downloads\/mysql-connector-j-9.3 \(2).0\/mysql-connector-j-9.3.0.jar&lt;com.mysql.cj.xdevapi(InsertStatement.class[InsertStatement" modifiers="1537" timestamp="1742584552000"/>
+    <typeInfo handle="=newone/src&lt;com.apm.bll{ISegmentedTokenBO.java[ISegmentedTokenBO" modifiers="513" timestamp="1763386149190"/>
+</typeInfoHistroy>

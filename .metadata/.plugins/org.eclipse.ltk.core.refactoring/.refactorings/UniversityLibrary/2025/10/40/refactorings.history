@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;cdu.fast.se3043.facade&apos; to &apos;cdu.fast.se3043.lms.facade&apos;&#x0A;- Original project: &apos;UniversityLibrary&apos;&#x0A;- Original element: &apos;UniversityLibrary/src/cdu.fast.se3043.facade&apos;&#x0A;- Renamed element: &apos;UniversityLibrary/src/cdu.fast.se3043.lms.facade&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;cdu.fast.se3043.facade&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;cdu.fast.se3043.facade" name="cdu.fast.se3043.lms.facade" qualified="false" references="true" stamp="1759383874452" textual="false" version="1.0"/>
+</session>

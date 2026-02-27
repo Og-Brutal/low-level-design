@@ -1,0 +1,18 @@
+# Ignore Eclipse project files
+.classpath
+.project
+.settings/
+
+# Ignore temporary or system files
+*.log
+*.tmp
+*.bak
+Thumbs.db
+.DS_Store
+
+# Ignore other IDE folders (optional safety)
+.vscode/
+.idea/
+out/
+
+/bin/

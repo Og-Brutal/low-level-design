@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item key="hasShownOverlayPopupBefore" value="true"/>
+	<section name="java.lang.Class">
+		<item key="replaceBarOpen" value="false"/>
+		<list key="findhistory">
+			<item value="createTabTitle"/>
+			<item value="aggregateFrequencyData"/>
+			<item value="BreakdownCardRenderer"/>
+			<item value="createFrequencyAnalysisPanel"/>
+			<item value="createModernFrequencyTabs"/>
+			<item value="createFrequencyHeader"/>
+			<item value="showFrequencyBreakdown"/>
+			<item value="addBreakdownClickListener"/>
+			<item value="FrequencyCardRenderer"/>
+			<item value="FrequencyBarRenderer"/>
+			<item value="setTotalFrequencyBase"/>
+			<item value="setFixedMainText"/>
+			<item value="setMaxFrequency"/>
+			<item value="createFrequencyListPanel"/>
+			<item value="checkSimilarityAction"/>
+		</list>
+	</section>
+</section>

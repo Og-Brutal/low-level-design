@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="SmartImportWizard">
+		<item key="SmartImportRootWizardPage.STORE_HIDE_ALREADY_OPEN" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_CLOSE_IMPORTED" value="true"/>
+		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
+		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="/home/wahab/eclipse-workspace/wahabSegmentation"/>
+			<item value="/home/wahab/eclipse-workspace/WahabSegmentation/wahabSegmentation"/>
+			<item value="/home/wahab/eclipse-workspace/WahabSegmentation"/>
+			<item value="/home/wahab/Downloads/ADAT-Racineur.v1.20180101"/>
+			<item value="/home/wahab/Downloads/AlkhalilMorphSys2"/>
+			<item value="/home/wahab/eclipse-workspace/Iteration2"/>
+			<item value="/home/wahab/eclipse-workspace/ITERATION2/ITERATION2"/>
+			<item value="/home/wahab/Downloads/ADAT-Lemmatization.v1.20180101"/>
+			<item value="/home/wahab/eclipse-workspace/23f3043_hw"/>
+			<item value="/home/wahab/eclipse-workspace/SCD-Hometask"/>
+			<item value="/home/wahab/eclipse-workspace/25f-prj-scd-hackops"/>
+			<item value="/home/wahab/eclipse-workspace/Arabic/Arabic_Prose_Manage"/>
+			<item value="/home/wahab/eclipse-workspace/Arabic"/>
+			<item value="/home/wahab/eclipse-workspace/AbstractFactoryDesign"/>
+			<item value="/home/wahab/eclipse-workspace/Library management system"/>
+			<item value="/home/wahab/eclipse-workspace/AbstractFactory"/>
+			<item value="/home/wahab/eclipse-workspace/Arabic_Prose_Management"/>
+			<item value="/home/wahab/Downloads/LMS"/>
+			<item value="/home/wahab/HW5"/>
+			<item value="/media/wahab/Data/JAVA_HW"/>
+		</list>
+		<section name="SmartImportWizard.dialogBounds">
+			<item key="DIALOG_X_ORIGIN" value="20"/>
+			<item key="DIALOG_Y_ORIGIN" value="20"/>
+			<item key="DIALOG_WIDTH" value="827"/>
+			<item key="DIALOG_HEIGHT" value="615"/>
+			<item key="DIALOG_FONT_NAME" value="1|Ubuntu Sans|11.0|0|GTK|1|"/>
+		</section>
+	</section>
+	<section name="SaveAsDialogSettings">
+		<item key="DIALOG_X_ORIGIN" value="20"/>
+		<item key="DIALOG_Y_ORIGIN" value="20"/>
+		<item key="DIALOG_WIDTH" value="353"/>
+		<item key="DIALOG_HEIGHT" value="554"/>
+		<item key="DIALOG_FONT_NAME" value="1|Ubuntu Sans|11.0|0|GTK|1|"/>
+	</section>
+	<section name="CleanDialogSettings">
+		<item key="TOGGLE_SELECTED" value="false"/>
+		<item key="DIALOG_WIDTH" value="322"/>
+		<item key="DIALOG_HEIGHT" value="344"/>
+		<item key="DIALOG_FONT_NAME" value="1|Ubuntu Sans|11.0|0|GTK|1|"/>
+	</section>
+	<section name="ExternalProjectImportWizard">
+		<item key="WizardProjectsImportPage.STORE_NESTED_PROJECTS" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_CLOSE_CREATED_PROJECTS_ID" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_HIDE_CONFLICTING_PROJECTS_ID" value="false"/>
+		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="/home/wahab/eclipse-workspace/freqkrdo"/>
+			<item value="/home/wahab/eclipse-workspace/25f-prj-scd-hackops"/>
+			<item value="/home/wahab/eclipse-workspace/ZrorKreYar"/>
+			<item value="/home/wahab/eclipse-workspace/chloooo"/>
+			<item value="/home/wahab/eclipse-workspace/aliBhai"/>
+			<item value="/home/wahab/eclipse-workspace/Finaliteration2"/>
+			<item value="/home/wahab/eclipse-workspace/wahabSegmentation"/>
+			<item value="/home/wahab/eclipse-workspace/23f3043_hw"/>
+			<item value="/home/wahab/eclipse-workspace/LayeredArchitecture"/>
+			<item value="/home/wahab/eclipse-workspace/wahab1"/>
+			<item value="/home/wahab/eclipse-workspace/newone"/>
+			<item value="/home/wahab/eclipse-workspace/Arabic_Prose_Management (2)"/>
+			<item value="/home/wahab/eclipse-workspace/arabic_project"/>
+			<item value="/home/wahab/eclipse-workspace/Arabic"/>
+			<item value="/home/wahab/eclipse-workspace/second version"/>
+			<item value="/home/wahab/Downloads/SQE ASS/MVPCalculatorFullProject"/>
+			<item value="/home/wahab/eclipse-workspace/MVP"/>
+			<item value="/home/wahab/eclipse-workspace/AbstractFactoryDesign"/>
+		</list>
+		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value=""/>
+		</list>
+		<section name="ExternalProjectImportWizard.dialogBounds">
+			<item key="DIALOG_X_ORIGIN" value="20"/>
+			<item key="DIALOG_Y_ORIGIN" value="20"/>
+			<item key="DIALOG_WIDTH" value="470"/>
+			<item key="DIALOG_HEIGHT" value="665"/>
+			<item key="DIALOG_FONT_NAME" value="1|Ubuntu Sans|11.0|0|GTK|1|"/>
+		</section>
+	</section>
+	<section name="ChooseWorkspaceDialogSettings">
+		<item key="DIALOG_X_ORIGIN" value="20"/>
+		<item key="DIALOG_Y_ORIGIN" value="20"/>
+	</section>
+	<section name="WORKBENCH_SETTINGS">
+		<list key="ENABLED_TRANSFERS">
+		</list>
+	</section>
+	<section name="NewWizardAction">
+		<section name="NewWizard.dialogBounds">
+			<item key="DIALOG_X_ORIGIN" value="0"/>
+			<item key="DIALOG_Y_ORIGIN" value="0"/>
+			<item key="DIALOG_WIDTH" value="500"/>
+			<item key="DIALOG_HEIGHT" value="500"/>
+			<item key="DIALOG_FONT_NAME" value="1|Ubuntu Sans|11.0|0|GTK|1|"/>
+		</section>
+	</section>
+</section>
